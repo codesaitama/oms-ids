@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaxPayer.ITaPS.Mono.IDP", "TaxPayer.ITaPS.Mono.IDP\TaxPayer.ITaPS.Mono.IDP.csproj", "{A34FC83F-CD08-4320-B68E-877CEE6C633C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A34FC83F-CD08-4320-B68E-877CEE6C633C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34FC83F-CD08-4320-B68E-877CEE6C633C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34FC83F-CD08-4320-B68E-877CEE6C633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34FC83F-CD08-4320-B68E-877CEE6C633C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD0DD021-AB05-4C7E-A561-5FA279BFC770}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="Default Web Site/GraIdpTest" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\somad\\Pictures\\TaxPayer\.ITaPS\.Mono\.IDP\\TaxPayer\.ITaPS\.Mono\.IDP\\TaxPayer\.ITaPS\.Mono\.IDP\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
